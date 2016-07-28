@@ -18,6 +18,9 @@ h2 {
     font-size: 200px;
 }
 
+#spacing {
+    height:110px;
+}
 #linkz {
     position: fixed;
     bottom:0;
@@ -50,5 +53,19 @@ h2 {
     margin:0 auto;
 }
 
+.linkText {
+    position:relative;
+    bottom:-15px;
+}
 
+.roundPic {
+    height:200px;
+    width:200px;
+    border-radius: 100%;
+    margin:0 auto;
+}
 
+.galleryImg {
+    display: inline-block;
+    margin:1px;
+}
