@@ -1,5 +1,21 @@
 body {
-    background-color:salmon;
+    font-family: 'Indie Flower', cursive;
+    background: #BF55EC;
+    background: -webkit-linear-gradient(left, #BF55EC , aqua); /
+    background: linear-gradient(left, #BF55EC , aqua);
+}
+
+h1 {
+    font-size: 60px;
+}
+
+h2 {
+    font-size: 36px;
+}
+
+#bigS {
+    float:left;
+    font-size: 200px;
 }
 
 #linkz {
@@ -7,6 +23,7 @@ body {
     bottom:0;
     border-top: 1px solid black;
     width:100%;
+    background-color: black;
 }
 .flask {
     vertical-align: top;
