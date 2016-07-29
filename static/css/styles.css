@@ -67,5 +67,13 @@ h2 {
 
 .galleryImg {
     display: inline-block;
-    margin:1px;
+    margin:none;
+    height:100px;
+    width:auto;
+}
+
+.item img {
+    max-height:400px;
+    width:auto;
+    margin:0 auto;
 }
