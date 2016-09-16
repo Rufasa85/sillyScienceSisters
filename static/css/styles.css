@@ -13,13 +13,17 @@ h2 {
     font-size: 36px;
 }
 
+#phoneNumber {
+    color:white;
+}
+
 #bigS {
     float:left;
     font-size: 200px;
 }
 
 #spacing {
-    height:110px;
+    height:310px;
 }
 #linkz {
     position: fixed;
